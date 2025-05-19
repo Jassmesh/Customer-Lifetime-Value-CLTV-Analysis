@@ -49,5 +49,6 @@ This CLTV model helps businesses identify and prioritize high-value customers, a
 
 - `CLTV_analysis.ipynb` –  Python notebook with full analysis
 - `predicted_cltv.csv` - Final LTV prediction CSV
--                         Trained model + visualizations
+- `bgf_model.pkl` , `ggf_model.pkl` -  Trained model + visualizations
+  
 
