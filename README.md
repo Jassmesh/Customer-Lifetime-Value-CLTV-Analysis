@@ -15,6 +15,10 @@ We apply BG/NBD and Gamma-Gamma models to estimate purchase frequency and averag
 - **Lifetimes** – CLTV modeling (BG/NBD & Gamma-Gamma)
 - **Jupyter Notebook** – Interactive development environment
 
+## 🗃 Dataset Information
+Name: `Online Retail.xlsx`
+Source: UCI Machine Learning Repository
+
 ## 🔧 Steps Involved in Building the Project
 
 1. **Data Preprocessing**
