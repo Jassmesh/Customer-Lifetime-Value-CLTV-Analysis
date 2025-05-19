@@ -35,7 +35,7 @@ We apply BG/NBD and Gamma-Gamma models to estimate purchase frequency and averag
    - Created a final dataset containing customer CLTVs
 
 5. **Customer Segmentation**
-   - Divided customers into 4 segments (`A`, `B`, `C`, `D`) based on CLTV quartiles
+   - Divided customers into 4 segments (`Champions`, `At Risk`, `Potential Loyalist`, `Loyal`) based on CLTV quartiles
 
 6. **Visualization**
    - Plotted customer segments and CLTV distributions
